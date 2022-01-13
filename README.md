@@ -1,4 +1,9 @@
-# `ZSNAPSHOT`
+<h2 align="center">
+  <a href="https://github.com/z-shell/zi">
+    <img src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="Logo" width="80" height="80" />
+  </a>
+❮ ZI ❯ Plugin - ZSnapshot
+</h2>
 
 Plugin that provides `zsnapshot` command which dumps current ZSH state into a file, for restoration by sourcing the file
 
