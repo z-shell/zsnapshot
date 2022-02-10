@@ -9,9 +9,9 @@ Plugin that provides `zsnapshot` command which dumps current ZSH state into a fi
 
 ## Installation
 
-### [Zinit](https://github.com/z-shell/zinit)
+### [ZI](https://github.com/z-shell/zi)
 
-Add `zinit load z-shell/zsnapshot` to your `.zshrc` file. Zinit will handle
+Add `zi load z-shell/zsnapshot` to your `.zshrc` file. Zinit will handle
 cloning the plugin for you automatically the next time you start zsh.
 
 ### [Antigen](https://github.com/zsh-users/antigen)
